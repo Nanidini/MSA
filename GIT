@@ -1,0 +1,8 @@
+Michael and Nandini to collaborate on a proposal for how we should structure the team git repository 
+
+Include in this proposal: 
+How should push requests / pull requests be handled? 
+Conflict resolution - (I am happy to coordinate the merging and resolving of conflicts as I am the most experienced with the codebase 🙂)
+When should branches be made / pruned?
+Any other detail you think is necessary for a painless (or as painless as possible!) experience for the whole team - we'll be sharing the git with Daniel, David, Bhargavi, Irene, CJ and Thi as well, so make sure you keep that in mind! Those 6 will be working on fairly distinct projects from us, but still in the same codebase.
+One particular pain point in the git branches currently is the packages directory (as we saw when getting you set up!) - is there a better way we can handle this?
